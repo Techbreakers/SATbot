@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <Install>
+    <Version_8_0_13_0 />
+    <Version_8_0_21_0>
+      <ClearedCache>NinjaScript editor cache cleared</ClearedCache>
+      <Date>2020-03-10 13:07:27</Date>
+      <CompiledCustomAssembly>2020-03-10 13:01:53</CompiledCustomAssembly>
+    </Version_8_0_21_0>
+  </Install>
+</NinjaTrader>

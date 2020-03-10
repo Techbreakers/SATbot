@@ -1,0 +1,123 @@
+******************* Session Start (Version 8.0.21.0) *******************
+2020-03-10 13:01:47:751 InstallDir='C:\Program Files (x86)\NinjaTrader 8\'
+2020-03-10 13:01:47:751 UserDataDir='C:\Users\qinee\Documents\NinjaTrader 8\'
+2020-03-10 13:01:47:751 MachineID='289AEBBD25D281157C5A9EEF50602332'
+2020-03-10 13:01:47:751 OS='Microsoft Windows NT 10.0.18363.0'/'Win32NT'
+2020-03-10 13:01:47:751 OSLanguage='en-US'
+2020-03-10 13:01:47:751 OSEnvironment='64bit'
+2020-03-10 13:01:47:751 Processors=12
+2020-03-10 13:01:47:751 ThreadPool: minWorkerThreads=12 maxWorkerThreads=1023 minCompletionPortThreads=12 maxCompletionPortThreads=1000
+2020-03-10 13:01:48:771 ProcessorSpeed=2.6 GHz
+2020-03-10 13:01:48:771 PhysicalMemory=32768 MB
+2020-03-10 13:01:48:799 DisplayAdapters=2/Intel(R) UHD Graphics 630|NVIDIA Quadro P1000
+2020-03-10 13:01:48:799 Monitors=1/3840x2160
+2020-03-10 13:01:48:799 .NET/CLR Version='4.8'/32bit
+2020-03-10 13:01:48:799 SqlCeVersion='4.0.8482.1'
+2020-03-10 13:01:48:799 ApplicationTimezone=EST +0 hour(s)
+2020-03-10 13:01:48:799 ApplicationTimezone=UTC -4 hour(s)
+2020-03-10 13:01:48:799 LocalTimezone=EST +0 hour(s)
+2020-03-10 13:01:48:799 LocalTimezone=UTC -4 hour(s)
+2020-03-10 13:01:48:909 DirectXRenderingHW
+2020-03-10 13:01:48:911 Deleting temporary files...
+2020-03-10 13:01:48:912 Compiling NinjaTrader.Custom...
+2020-03-10 13:01:53:599 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\cache'...
+2020-03-10 13:01:53:599 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\replay'...
+2020-03-10 13:01:53:600 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\day'...
+2020-03-10 13:01:53:600 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\messages'...
+2020-03-10 13:01:53:600 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\minute'...
+2020-03-10 13:01:53:600 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\snapshot'...
+2020-03-10 13:01:53:600 Creating directory 'C:\Users\qinee\Documents\NinjaTrader 8\db\tick'...
+2020-03-10 13:01:53:601 Copying db and custom assemblies...
+2020-03-10 13:01:54:394 Loading custom assemblies...
+2020-03-10 13:01:54:395 Loading C:\Users\qinee\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Custom.dll...
+2020-03-10 13:01:54:473 Loading C:\Users\qinee\Documents\NinjaTrader 8\bin\Custom\NinjaTrader.Vendor.dll...
+2020-03-10 13:01:54:686 Cbi.Licence.Verify99: type=SimulationOnly state=Verified startDate=12/31/2004 endDate=11/30/2099 licensedProviders=' Barchart.com Coinbase E-Signal External IQFeed Kinetick Playback Simulator Custom0 Custom2 Custom3 Custom4 Custom6 Custom7 Custom8 Custom9 Custom10 Custom11 Provider13 Custom14 Provider26 Custom15 Custom16 Custom17 FOREX.com Interactive Brokers Provider4 CQG FXCM Continuum Rithmic NinjaTrader NinjaTrader Continuum Rithmic for NinjaTrader Brokerage NinjaTrader FXCM cTrader TD AMERITRADE' licensedFeatures=' AdvancedStrategyManagement AutomatedTrading BasicEntry Charting SuperDom'
+2020-03-10 13:01:54:686 Initializing database...
+2020-03-10 13:01:54:686 Loading master instruments...
+2020-03-10 13:01:54:968 (Db) Cbi.DB.get_Current.CreateConnection.Start
+2020-03-10 13:01:54:970 (Db) Cbi.DB: connectionString='Data Source="C:\Users\qinee\Documents\NinjaTrader 8\db\NinjaTrader.sdf"; Flush Interval=1'
+2020-03-10 13:01:55:500 (Db) Cbi.DB.get_Current: updating version=860
+2020-03-10 13:01:55:510 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:510 (Db) Cbi.DB.get_Current: updating version=861
+2020-03-10 13:01:55:511 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:511 (Db) Cbi.DB.get_Current: updating version=862
+2020-03-10 13:01:55:511 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:511 (Db) Cbi.DB.get_Current: updating version=863
+2020-03-10 13:01:55:511 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:512 (Db) Cbi.DB.get_Current: updating version=864
+2020-03-10 13:01:55:512 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:512 (Db) Cbi.DB.get_Current: updating version=867
+2020-03-10 13:01:55:513 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:513 (Db) Cbi.DB.get_Current: updating version=870
+2020-03-10 13:01:55:514 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:514 (Db) Cbi.DB.get_Current: updating version=873
+2020-03-10 13:01:55:515 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:515 (Db) Cbi.DB.get_Current: updating version=876
+2020-03-10 13:01:55:515 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:515 (Db) Cbi.DB.get_Current: updating version=877
+2020-03-10 13:01:55:516 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:516 (Db) Cbi.DB.get_Current: updating version=879
+2020-03-10 13:01:55:516 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:516 (Db) Cbi.DB.get_Current: updating version=880
+2020-03-10 13:01:55:516 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:516 (Db) Cbi.DB.get_Current: updating version=881
+2020-03-10 13:01:55:517 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:517 (Db) Cbi.DB.get_Current: updating version=882
+2020-03-10 13:01:55:517 (Db) Cbi.DB.get_Current: done
+2020-03-10 13:01:55:524 (Db) Cbi.DB.get_Current.CreateConnection.End
+2020-03-10 13:01:55:610 Loading instruments...
+2020-03-10 13:01:55:743 Loading accounts...
+2020-03-10 13:01:55:836 Loading users...
+2020-03-10 13:01:55:845 Downloading server info...
+2020-03-10 13:01:55:912 Starting instrument management...
+2020-03-10 13:01:55:915 Starting timer...
+2020-03-10 13:01:55:915 Creating file type watcher...
+2020-03-10 13:01:55:915 Setting ATI...
+2020-03-10 13:01:55:931 Server.HdsClient.Connect: type=IS server='is-us-nt-001.ninjatrader.com' port=31658 system='NT'
+2020-03-10 13:01:55:940 Connecting ATI server...
+2020-03-10 13:01:55:940 Server.AtiServer.Connect0
+2020-03-10 13:01:55:941 Starting adapter server...
+2020-03-10 13:01:55:942 Server.AtiServer.Connect1: Port='36973'
+2020-03-10 13:01:55:942 Server.AtiServer.Connect2
+2020-03-10 13:01:55:948 Starting bars dictionary...
+2020-03-10 13:01:55:948 Starting recorder/scanner...
+2020-03-10 13:01:55:960 Starting server(s)...
+2020-03-10 13:01:55:965 Core.Globals.ApplicationStart.Commission: minVersion=1 maxVersion=275
+2020-03-10 13:01:55:965 Core.Globals.ApplicationStart.InstrumentList: minVersion=1 maxVersion=1
+2020-03-10 13:01:55:965 Core.Globals.ApplicationStart.MasterInstrument: minVersion=1 maxVersion=2827
+2020-03-10 13:01:55:965 Core.Globals.ApplicationStart.Risk: minVersion=1 maxVersion=39
+2020-03-10 13:01:55:965 Core.Globals.ApplicationStart.TradingHours: minVersion=1 maxVersion=899
+2020-03-10 13:01:55:988 ChartHotKeys: Alerts='' DisableAllAlerts='' EnableAllAlerts='' DataSeries='Ctrl+F' Indicators='Ctrl+I' Strategies='Ctrl+S' Properties='Ctrl+T' CrosshairPointer='Ctrl+R' CrosshairLocal='Ctrl+Q' CrosshairGlobal='Ctrl+G' CrosshairGlobal2='Ctrl+N' CrosshairLock='Ctrl+L' AutoScaleAndReturn='' CyclePlotExecutions='Ctrl+E' ReloadHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5' SaveChartImage='Alt+S' ShowDataBox='Ctrl+D' ShowChartTrader='' ShowChartTraderHidden='' ShowScrollBar='' SnapModeBar='' SnapModeBarPrice='' SnapModeDisabled='' SnapModePrice='' StayInDrawMode='' ZoomIn='Ctrl+Alt+Z' ZoomOut='Ctrl+Alt+O' BarSpacingPlus='Ctrl+Down' BarSpacingMinus='Ctrl+Up' BarWidthPlus='Alt+Down' BarWidthMinus='Alt+Up' Arc='Ctrl+F7' AndrewsPitchfork='Ctrl+F8' ArrowDown='Alt+F3' ArrowLine='Ctrl+F2' ArrowUp='Alt+F2' Diamond='Alt+F5' Dot='Alt+F6' Ellipse='Ctrl+F11' ExtendedLine='F4' FibonacciCircle='F11' FibonacciExtension='F9' FibonacciRetracement='F8' FibonacciTimeExtension='F10' GannFan='Ctrl+F9' HorizontalLine='F6' Line='F2' Path='Ctrl+4' Polygon='Alt+F10' VolumeProfile='Ctrl+3' Ray='F3' Rectangle='Ctrl+F12' RegressionChannel='Ctrl+F10' RemoveDrawingObjects='' RegionHighlightX='Shift+F1' RegionHighlightY='Shift+F2' RiskReward='Ctrl+F4' Ruler='Ctrl+F3' Square='Alt+F7' Text='F12' TimeCycles='Alt+F11' TrendChannel='Ctrl+2' Triangle='Ctrl+F6' TriangleDown='Alt+F9' TriangleUp='Alt+F8' VerticalLine='F7'
+2020-03-10 13:01:55:989 GlobalHotKeys: CloseWorkspace='' NextWorkspace='Shift+F3' PreviousWorkspace='' SaveWorkspace='' SaveAllWorkspaces='' NewAccountData='' NewTradePerformance='' NewAlertsLog='' NewBasicEntry='' NewChart='' NewFxBoard='' NewFxPro='' NewHotListAnalyzer='' NewLevel2='' NewMarketAnalyzer='' NewMarketWatch='' NewNews='' NewNinjaScriptEditor='' NewNinjaScriptOutput='' NewOrderTicket='' NewStrategyAnalyzer='' NewDynamicDom='' NewStaticDom='' NewTimeAndSales='' CancelAllOrders='' FlattenEverything='' OpenInstrumentManager='' OpenInstrumentList='' OpenDatabase='' OpenHotKeyManager='' OpenHistoricalData='' OpenCommission='' OpenRisk='' OpenTradingHoursManager='' OpenRemoveNinjaScript='' CloseOtherTabs='' CloseTab='' DuplicateInNewTab='' DuplicateInNewWindow='' Export='' Find='Ctrl+F' MoveToNewWindow='' Print='Ctrl+P' Share='Ctrl+Shift+S' LoadTemplate='' SaveTemplate='' SaveTemplateAsDefault=''
+2020-03-10 13:01:55:990 MarketAnalyzerHotKeys: AddBlankRow='' AddLabelRow='' Columns='' Alerts='' EnableAllAlerts='' DisableAllAlerts='' AutoSort='' RowFilter='' ReloadHistorical='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2020-03-10 13:01:55:990 NinjaScriptEditorHotKeys: InsertCodeSnippet='F2' FindNext='F3' Compile='F5' GoToLine='Ctrl+G' CommentSelection='Ctrl+K' InlineSyntaxChecking='Ctrl+Alt+S' Save='Ctrl+S' Undo='Ctrl+Z' CollapseAllRegions='' ExpandAllRegions='' Redo='Ctrl+Y'
+2020-03-10 13:01:55:991 OrderEntryHotKeys: BuyAsk='' BuyBid='' BuyMarket='' SellAsk='' SellBid='' SellMarket='' BreakevenAtmStrategy='' BreakevenPosition='' CancelLastOrder='' CloseAtmStrategy='' ClosePosition='' DecreaseLastOrderPrice='' IncreaseLastOrderPrice='' ModifyLastOrder2Fill='' Reverse='' OcoOrder='Ctrl+Z' SimulatedOrder=''
+2020-03-10 13:01:55:991 SuperDomHotKeys: Center='' Columns='' Indicators='' ReloadAllHistoricalData='Ctrl+Shift+R' ReloadNinjaScript='F5'
+2020-03-10 13:01:55:991 OrderEntryHotKeys=disabled
+2020-03-10 13:01:55:992 AutoClose=disabled
+2020-03-10 13:01:56:298 PrimaryMonitorWPFDPIScale=0.40
+2020-03-10 13:01:59:712 Starting server message polling timer with interval 3600 seconds...
+2020-03-10 13:06:15:783 Shutting down NinjaTrader
+2020-03-10 13:06:15:783 Shutting down instrument management
+2020-03-10 13:06:15:783 Shutting down instrument threads
+2020-03-10 13:06:15:783 Shutting down BP thread
+2020-03-10 13:06:15:783 Shutting down recorder/scanner
+2020-03-10 13:06:15:792 Shutting down file type watcher
+2020-03-10 13:06:15:792 Shutting down ATI server
+2020-03-10 13:06:15:817 Shutting down auto trade component
+2020-03-10 13:06:15:818 Shutting down SMTP server
+2020-03-10 13:06:15:819 Shutting down adapter server
+2020-03-10 13:06:15:832 Shutting down server(s)
+2020-03-10 13:06:15:841 Shutting down mail thread
+2020-03-10 13:06:15:841 Shutting down sound thread
+2020-03-10 13:06:15:841 Shutting down timer
+2020-03-10 13:06:15:841 Shutting down alerts timer
+2020-03-10 13:06:15:841 Shutting down message timer
+2020-03-10 13:06:15:841 Shutting down db
+2020-03-10 13:06:15:842 Flushing DB thread
+2020-03-10 13:06:15:878 Shutting down bars dictionary
+2020-03-10 13:06:15:880 Shutting down license threads
+2020-03-10 13:06:15:892 Shutting down logs
+2020-03-10 13:06:15:902 Shutting down bars types
+2020-03-10 13:06:15:903 Shutting down UI threads
+2020-03-10 13:06:15:916 ************************ Session End ************************

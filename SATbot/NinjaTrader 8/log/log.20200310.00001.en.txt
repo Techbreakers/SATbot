@@ -1,0 +1,9 @@
+2020-03-10 13:07:24:899|2|4|Session Break (Version 8.0.21.0)
+2020-03-10 13:07:26:464|1|4|Verifying license at primary server...
+2020-03-10 13:07:26:637|1|4|Type=Simulation State=Verified Start Date=12/31/2004 End Date=11/30/2099
+2020-03-10 13:07:27:925|1|4|Global simulation mode enabled
+2020-03-10 13:07:29:220|1|2|Using IS (is-us-nt-001.ninjatrader.com/31658)
+2020-03-10 13:07:29:235|1|4|Automated trading disabled
+2020-03-10 13:07:29:308|1|32|Order entry hot keys disabled
+2020-03-10 13:07:29:309|1|4|Auto close enabled=False
+2020-03-10 13:07:30:217|1|4|Restoring workspace 'Untitled'...

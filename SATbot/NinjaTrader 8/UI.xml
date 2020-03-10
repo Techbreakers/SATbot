@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NinjaTrader>
+  <IsGettingConnectedDisplayed />
+  <GettingStarted>
+    <LastTip>5</LastTip>
+    <DontShowAgain>false</DontShowAgain>
+  </GettingStarted>
+  <Recorder>
+    <Instruments />
+    <IsRunning>False</IsRunning>
+  </Recorder>
+  <BPControlCenter>
+    <IsRunning>False</IsRunning>
+  </BPControlCenter>
+  <DSControlCenter>
+    <IsRunning>False</IsRunning>
+  </DSControlCenter>
+  <GWControlCenter>
+    <IsRunning>False</IsRunning>
+  </GWControlCenter>
+  <HDSControlCenter>
+    <IsRunning>False</IsRunning>
+  </HDSControlCenter>
+  <ISControlCenter>
+    <IsRunning>False</IsRunning>
+  </ISControlCenter>
+</NinjaTrader>

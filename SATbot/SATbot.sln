@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATbot", "SATbot\SATbot.csproj", "{607F0812-37F8-4E0B-9371-F5327CEC5ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SATbot", "SATbot\SATbot.csproj", "{607F0812-37F8-4E0B-9371-F5327CEC5ABE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SATbot_News", "SATbot_News\SATbot_News.csproj", "{61C5A61C-0F98-436C-8475-BFF235A06375}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SATbot_SentimentAnalysis", "SATbot_SentimentAnalysis\SATbot_SentimentAnalysis.csproj", "{AAF7FED3-C778-4D1E-899E-0E3F283A189B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SATbot_AlgoTrading_Alpaca", "SATbot_AlgoTrading_Alpaca\SATbot_AlgoTrading_Alpaca.csproj", "{F2E1513B-3D67-4280-AB52-6B52B03C0464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaTrader.Custom", "NinjaTrader 8\bin\Custom\NinjaTrader.Custom.csproj", "{AF9FA825-F452-4071-ACE9-FAB5B44A013E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{607F0812-37F8-4E0B-9371-F5327CEC5ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607F0812-37F8-4E0B-9371-F5327CEC5ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607F0812-37F8-4E0B-9371-F5327CEC5ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C5A61C-0F98-436C-8475-BFF235A06375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C5A61C-0F98-436C-8475-BFF235A06375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C5A61C-0F98-436C-8475-BFF235A06375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C5A61C-0F98-436C-8475-BFF235A06375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF7FED3-C778-4D1E-899E-0E3F283A189B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF7FED3-C778-4D1E-899E-0E3F283A189B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF7FED3-C778-4D1E-899E-0E3F283A189B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF7FED3-C778-4D1E-899E-0E3F283A189B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E1513B-3D67-4280-AB52-6B52B03C0464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E1513B-3D67-4280-AB52-6B52B03C0464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E1513B-3D67-4280-AB52-6B52B03C0464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E1513B-3D67-4280-AB52-6B52B03C0464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9FA825-F452-4071-ACE9-FAB5B44A013E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9FA825-F452-4071-ACE9-FAB5B44A013E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9FA825-F452-4071-ACE9-FAB5B44A013E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9FA825-F452-4071-ACE9-FAB5B44A013E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
