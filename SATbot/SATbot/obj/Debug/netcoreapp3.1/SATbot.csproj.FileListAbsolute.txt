@@ -25,3 +25,17 @@ D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgr
 D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
 D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
 D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\SATbot.deps.json
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\SATbot.runtimeconfig.json
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\SATbot.runtimeconfig.dev.json
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\SATbot.dll
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\SATbot.pdb
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\Alpaca.Markets.dll
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\SuperSocket.ClientEngine.dll
+D:\GitHub\SATbot\SATbot\SATbot\bin\Debug\netcoreapp3.1\WebSocket4Net.dll
+D:\GitHub\SATbot\SATbot\SATbot\obj\Debug\netcoreapp3.1\SATbot.Resource.resources
+D:\GitHub\SATbot\SATbot\SATbot\obj\Debug\netcoreapp3.1\SATbot.csproj.GenerateResource.cache
+D:\GitHub\SATbot\SATbot\SATbot\obj\Debug\netcoreapp3.1\SATbot.dll
+D:\GitHub\SATbot\SATbot\SATbot\obj\Debug\netcoreapp3.1\SATbot.pdb
